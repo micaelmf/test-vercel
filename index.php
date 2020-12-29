@@ -8,7 +8,7 @@
 <body>
     <p>Testing Vercel</p>
     <p>HTML + JS</p>
-
+    <?php echo "Hello world"; ?>
     <script>
         alert("Hello World!");
     </script>
